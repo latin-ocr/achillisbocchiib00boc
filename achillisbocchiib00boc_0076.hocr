@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "achillisbocchiib00boc_0076.png"; bbox 0 0 1877 2974; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 91 1175 140">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 91 1175 140">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 91 1175 140; baseline -0.014 0"><span class='ocrx_word' id='word_1_1' title='bbox 365 99 444 140; x_wconf 79' lang='lat' dir='ltr'><strong>XX</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 813 95 935 135; x_wconf 85' lang='lat' dir='ltr'><strong>LIB.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 983 91 1175 133; x_wconf 77' lang='lat' dir='ltr'><strong>PRIM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 365 208 1552 367">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 365 208 1552 367">
+     <span class='ocr_line' id='line_1_2' title="bbox 365 208 1552 276; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 365 222 519 276; x_wconf 73' lang='lat' dir='ltr'><strong>CVM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 567 220 873 274; x_wconf 78' lang='lat' dir='ltr'>VIRTVTE</span> <span class='ocrx_word' id='word_1_6' title='bbox 920 214 1118 269; x_wconf 78' lang='lat' dir='ltr'><strong>ALMA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1160 208 1552 266; x_wconf 74' lang='lat' dir='ltr'>CONSENTIT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 554 304 1332 367; baseline -0.017 0"><span class='ocrx_word' id='word_1_8' title='bbox 554 314 775 367; x_wconf 66' lang='lat' dir='ltr'><strong>VERA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 869 304 1332 362; x_wconf 80' lang='lat' dir='ltr'><strong>VOLVPTAS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 250 702 1613 2471">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 250 702 1613 2471">
+     <span class='ocr_line' id='line_1_4' title="bbox 250 702 1613 2471; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 250 702 1613 2471; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
